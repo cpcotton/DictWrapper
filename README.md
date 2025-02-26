@@ -24,7 +24,7 @@ glog(0)
 # is silent
 
 # USE AT YOUR PERIL - it saves a lot of typing 
-# HOWVERE I WISH I HAD THIS WHEN I STARTED A BIG PROJECT
+# I WISH I HAD THIS WHEN I STARTED A BIG PROJECT
 # would be a good teachers tool
 
 # example
